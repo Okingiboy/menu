@@ -58,32 +58,32 @@ body {
 }
 
 .slide:first-child {
-  background: url("../images/ogbono-removebg-preview.png/1600x900") no-repeat
+  background: url("./images/ogbono-removebg-preview.png/1600x900") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(2) {
-  background: url("../images/afang_soup-removebg-preview.png/1600x900") no-repeat
+  background: url("./images/afang_soup-removebg-preview.png/1600x900") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(3) {
-  background: url("../images/banga_soup-removebg-preview.png/1600x900") no-repeat
+  background: url("./images/banga_soup-removebg-preview.png/1600x900") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(4) {
-  background: url("../images/egusi-removebg-preview.png/1600x900") no-repeat
+  background: url("./images/egusi-removebg-preview.png/1600x900") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(5) {
-  background: url("../images/pepperosup.png/1600x900") no-repeat
+  background: url("./images/pepperosup.png/1600x900") no-repeat
     center top/cover;
 }
 
 .slide:nth-child(6) {
-  background: url("../images/Akara and pap.png/1600x900") no-repeat
+  background: url("./images/Akara and pap.png/1600x900") no-repeat
     center center/cover;
 }
 
