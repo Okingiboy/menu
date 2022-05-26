@@ -78,7 +78,7 @@ body {
 }
 
 .slide:nth-child(5) {
-  background: url("../images/pepperosup.png") no-repeat
+  background: url("./images/pepperosup.png") no-repeat
     center top/cover;
 }
 
