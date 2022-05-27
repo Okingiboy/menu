@@ -87,6 +87,25 @@ body {
     center center/cover;
 }
 
+.slide:nth-child(7) {
+  background: url("./images/Efo riro.png") no-repeat
+    center center/cover;
+}
+
+.slide:nth-child(8) {
+  background: url("./images/jollof rice.png") no-repeat
+    center center/cover;
+}
+
+.slide:nth-child(9) {
+  background: url("./images/rice_and_stew_wiht_plantain-removebg-preview.png") no-repeat
+    center center/cover;
+}
+
+.slide:nth-child(10) {
+  background: url("./images/buns.png") no-repeat
+    center center/cover;
+}
 .buttons button#prev {
   position: absolute;
   top: 50%;
