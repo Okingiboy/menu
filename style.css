@@ -69,17 +69,17 @@ body {
 
 .slide:nth-child(3) {
   background: url("./images/banga_soup-removebg-preview.png") no-repeat
-    center top/cover;
+    center center/cover;
 }
 
 .slide:nth-child(4) {
   background: url("./images/egusi-removebg-preview.png") no-repeat
-    center top/cover;
+    center center/cover;
 }
 
 .slide:nth-child(5) {
   background: url("./images/pepperosup.png") no-repeat
-    center top/cover;
+    center center/cover;
 }
 
 .slide:nth-child(6) {
